@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/Terkwood/tinker-versioner/compare/v0.1.2...v0.1.3) (2021-02-15)
+
+
+### Features
+
+* add final.txt ([e069923](https://github.com/Terkwood/tinker-versioner/commit/e06992373ae278c9523a9b1afce6d44cc03e8265))
+
 ### [0.1.2](https://github.com/Terkwood/tinker-versioner/compare/v0.1.1...v0.1.2) (2021-02-15)
 
 
